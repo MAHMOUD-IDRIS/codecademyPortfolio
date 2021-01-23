@@ -152,3 +152,11 @@ main {
 .about {
     background-color:rgba(194, 194, 194,0.5) ;
 }
+
+.contactContainer {
+    padding-top: 5em;
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    min-width: 250px;
+}
